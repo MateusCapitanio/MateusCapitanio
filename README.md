@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Mateus Capitanio</h1>
-<h3 align="center">Sou apaixonado por programação e adoro trabalhar com React</h3>
+<h3 align="center">Apaixonado por encontrar soluções em programação.</h3>
 
 - 🔭 Atualmente estudo em **Trybe Desenvolvimento**
 
