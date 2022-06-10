@@ -1,7 +1,7 @@
 <h2 align="center">
-  Olá 👋, meu nome é Mateus Capitanio
+  Olá 👋, meu nome é Mateus Capitanio.
   <br>
-  Apaixonado por encontrar soluções em programação.
+  Apaixonado por desenvolver soluções em programação.
 </h2>
 
 - 🔭 Atualmente estudo em **Trybe Desenvolvimento**
