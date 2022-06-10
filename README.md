@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Mateus Capitanio</h1>
-<h3 align="center">Apaixonado por encontrar soluções em programação.</h3>
+<h2 align="center">Olá 👋, meu nome é Mateus Capitanio</h1>
+<h2 align="center">Apaixonado por encontrar soluções em programação.</h2>
 
 - 🔭 Atualmente estudo em **Trybe Desenvolvimento**
 
