@@ -7,17 +7,17 @@
 - 🔭 Atualmente estudo em **Trybe Desenvolvimento**
 
 <div>
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCapitanio&show_icons=true&theme=gruvbox" />
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCapitanio&layout=compact&theme=gruvbox" />
-</div>
+  <a href="https://github.com/MateusCapitanio"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCapitanio&show_icons=true&theme=gruvbox" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCapitanio&layout=compact&theme=gruvbox" />
+    </div></a>
 
 <br>
 
 <div>
-  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <a href="https://github.com/MateusCapitanio"><img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
 
 ##
