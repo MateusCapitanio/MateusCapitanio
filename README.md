@@ -24,7 +24,7 @@
 
 <div>
   <h3>Conecte-me</h3>
-  <a href="https://www.linkedin.com/in/mateuscapitanio" target="blank">
+  <a href="https://www.linkedin.com/in/mateuscapitanio" target="_blank">
     <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
