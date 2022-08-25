@@ -19,6 +19,7 @@
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 </div>
 
 ##
