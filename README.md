@@ -20,6 +20,10 @@
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://github.com/MateusCapitanio"><img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 </div>
 
 ##
