@@ -4,8 +4,6 @@
   Apaixonado por desenvolver soluções em programação.
 </h2>
 
-- 🔭 Atualmente estudo em **Trybe Desenvolvimento**
-
 <div>
   <a href="https://github.com/MateusCapitanio"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCapitanio&show_icons=true&theme=gruvbox" /></a>
   <a href="https://github.com/MateusCapitanio"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCapitanio&layout=compact&theme=gruvbox" />
