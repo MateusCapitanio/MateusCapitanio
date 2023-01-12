@@ -23,7 +23,8 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=sequelize&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp; 
+ 
 </div>
 
 ##
