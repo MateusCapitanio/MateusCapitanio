@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E87C56&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+meu+nome+é+Mateus+Capitanio;Amo+desenvolver+soluções+em+tecnologia.)](https://git.io/typing-svg)
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusCapitanio&show_icons=true&count_private=true&hide_border=true&title_color=E87C56&icon_color=E87C56&text_color=E87C56&bg_color=0d1117" alt="Mateus Capitanio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCapitanio&layout=compact&hide_border=true&title_color=E87C56&text_color=E87C56&bg_color=0d1117" />
-</div> -->
+<div align="center">  
+ 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MateusCapitanio&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D&dates=8C7BDD)](https://git.io/streak-stats)
+  
+</div>
+
+
 
 <div align=center>
 
